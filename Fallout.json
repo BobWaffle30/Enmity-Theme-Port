@@ -3,8 +3,8 @@
     "description": "A theme inspired by Fallout 4's terminals!",
     "authors": [
         {
-            "name": "Bates",
-            "id": "137259132305539072"
+            "name": "bobwaffle",
+            "id": "723152735532351540"
         }
     ],
     "semanticColors": {
@@ -38,8 +38,8 @@
         "TEXT_DANGER": ["#d41227"],
         "KEYBOARD": ["#001500"],
         "CHAT_BACKGROUND": ["#000900"],
-        "CARD_PRIMARY_BG": ["#001200"],
-        "CARD_SECONDARY_BG": ["#001800"],
+        "CARD_PRIMARY_BG": ["#000900"],
+        "CARD_SECONDARY_BG": ["#000900"],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#285f30"],
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#001500"],
         "BORDER_FAINT": ["#173c17"],
