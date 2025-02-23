@@ -1,0 +1,68 @@
+{
+    "name": "Fallout 4 Terminal",
+    "description": "A theme inspired by Fallout 4's terminals!",
+    "authors": [
+        {
+            "name": "Bates",
+            "id": "137259132305539072"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#4aef98"],
+        "HEADER_SECONDARY": ["#4aef98"],
+        "TEXT_NORMAL": ["#4aef98"],
+        "TEXT_MUTED": ["#375f30"],
+        "INTERACTIVE_NORMAL": ["#4aef98"],
+        "INTERACTIVE_HOVER": ["#5fffaa"],
+        "INTERACTIVE_ACTIVE": ["#41c97e"],
+        "INTERACTIVE_MUTED": ["#204f20"],
+        "BACKGROUND_PRIMARY": ["#000900"],
+        "BACKGROUND_SECONDARY": ["#001200"],
+        "BACKGROUND_SECONDARY_ALT": ["#001800"],
+        "BACKGROUND_TERTIARY": ["#002100"],
+        "BACKGROUND_ACCENT": ["#204f20"],
+        "BACKGROUND_FLOATING": ["#001500"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#000900"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#001200"],
+        "BACKGROUND_NESTED_FLOATING": ["#001800"],
+        "BACKGROUND_MESSAGE_HOVER": ["#285f30"],
+        "BACKGROUND_MODIFIER_HOVER": ["#0a2b0a"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#173c17"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#2a492a"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#173c17"],
+        "SCROLLBAR_THIN_THUMB": ["#2b4f2b"],
+        "SCROLLBAR_THIN_TRACK": ["transparent"],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#4aef98"],
+        "CHANNELS_DEFAULT": ["#4aef98"],
+        "TEXT_LINK": ["#4aef98"],
+        "TEXT_DANGER": ["#d41227"],
+        "KEYBOARD": ["#001500"],
+        "CHAT_BACKGROUND": ["#000900"],
+        "CARD_PRIMARY_BG": ["#001200"],
+        "CARD_SECONDARY_BG": ["#001800"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#285f30"],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#001500"],
+        "BORDER_FAINT": ["#173c17"],
+        "BG_BACKDROP": ["transparent"]
+    },
+    "rawColors": {
+        "HIGHLIGHT": "#4aef98",
+        "BACKGROUND": "#000900",
+        "TEXT": "#4aef98",
+        "CLOSE_BUTTON": "#d41227",
+        "ONLINE_COLOR": "#39ff14",
+        "AFK_COLOR": "#ffff33",
+        "DND_COLOR": "#ff0000",
+        "STREAMING_COLOR": "#bc13fe"
+    },
+    "background": {
+        "blur": 5,
+        "url": "unset",
+        "alpha": 1
+    },
+    "plus": {
+        "version": "1.0",
+        "mentionLineColor": "#4aef98"
+    },
+    "spec": 2
+}
